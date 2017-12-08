@@ -1,1 +1,2 @@
-print "Hello world \n"
+  //表示する
+  print "Hello world \n"
